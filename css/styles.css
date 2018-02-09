@@ -55,10 +55,10 @@ align-items: center;
 }
 
 nav {
-  color: green;
+  color: blue;
   border: 1px;
   border-style: solid;
-  background-color: ,blue;
+  background-color: yellow;
   margin-left: 20pt;
 }
 
@@ -75,7 +75,7 @@ section h1 {
 article {
   border: 1px;
   border-style: solid;
-  border-color: red;
+  border-color: blue;
   padding: 10pt;
   margin: 10pt;
 }
