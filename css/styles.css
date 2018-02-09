@@ -55,10 +55,10 @@ align-items: center;
 }
 
 nav {
-  color: green;
+  color: red;
   border: 1px;
   border-style: solid;
-  background-color: orange;
+  background-color: black;
   margin-left: 20pt;
 }
 
